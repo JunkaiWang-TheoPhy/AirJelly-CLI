@@ -3,9 +3,9 @@ requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "desktop-memory-bridge"
+name = "airjelly-cli"
 version = "0.1.0"
-description = "AirJelly CLI/MCP and reviewed daily desktop memory for agents"
+description = "Local authenticated AirJelly CLI and stdio MCP bridge"
 requires-python = ">=3.11"
 license = "Apache-2.0"
 license-files = ["LICENSE", "NOTICE"]
@@ -13,11 +13,10 @@ dependencies = []
 
 [project.scripts]
 airjelly = "airjelly_bridge.cli:main"
-desktop-memory = "desktop_memory.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["airjelly_bridge*", "desktop_memory*"]
+include = ["airjelly_bridge*"]
 
 [project.urls]
-Repository = "https://github.com/JunkaiWang-TheoPhy/desktop-memory-bridge"
-Documentation = "https://github.com/JunkaiWang-TheoPhy/desktop-memory-bridge#readme"
+Repository = "https://github.com/JunkaiWang-TheoPhy/AirJelly-CLI"
+Documentation = "https://github.com/JunkaiWang-TheoPhy/AirJelly-CLI#readme"

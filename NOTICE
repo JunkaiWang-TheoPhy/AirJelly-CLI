@@ -1,14 +1,11 @@
-Desktop Memory Bridge
+AirJelly-CLI
 Copyright 2026 JunkaiWang-TheoPhy
 
-This repository contains independently written local interoperability clients,
-transports, policies, tests and reviewed-note retrieval code. Interface names
-and parameter structures are used for compatibility with third-party APIs.
+Independently written local interoperability client, CLI/MCP transports,
+capability policies and tests. Interface names and parameter structures
+are used for compatibility with AirJelly's local Public API.
 
-AirJelly and Screenpipe are third-party applications governed by their own
-licenses. Their implementation code, binaries, recordings and credentials
-are not distributed here. This project is not an official vendor plugin.
-
-The copyright owner authorized this public snapshot under Apache License 2.0.
-The generated repository artwork illustrates the workflow; it is not evidence
-of compatibility or recorded user activity.
+AirJelly is a third-party application governed by its own license. Its
+implementation, binaries, recordings and credentials are not distributed
+here. This is not an official vendor plugin and does not bypass licensing.
+Generated repository artwork illustrates the API workflow, not recorded data.

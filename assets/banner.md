@@ -1,15 +1,13 @@
-# Repository artwork
+# AirJelly-CLI artwork
 
-The semantic anchor is reviewed desktop activity: a desktop-window paper press turns app panes into indexed daily cards, with a check stamp and terminal mark showing review and command-line retrieval.
+Semantic anchor: an authenticated loopback command relay with separate write, cost and execution interlocks. A terminal request becomes a fan of typed API command cards. This differs from the daily-card paper illustration used by Desktop-Memory-CLI.
 
-Generated using the built-in ImageGen tool. The raster is conceptual artwork, not a screenshot or activity evidence. No private reference image or recording was supplied.
+Generated with the built-in ImageGen tool, without private screenshots or vendor logos. This conceptual image is not recording evidence.
 
 ## Prompt
 
-Use case: stylized-concept. Asset type: wide GitHub repository banner for Desktop Memory Bridge. Primary request: depict desktop activity becoming reviewed daily memory available to command-line tools. Visual thesis: one large computer desktop window becomes a paper diary press, feeding broad daily-index cards out of its lower edge. The window shows only three simple abstract app panes, with no real screenshots or private content. Two supporting motifs only: a large green check stamp on the front daily card and a compact black >_ terminal mark on a small output tab. One dominant subject, clear left-to-right story, readable at 600px width, generous negative space. Style: vivid hand-cut paper and risograph editorial illustration, tactile flat paper, playful precise geometry. Light warm ivory background; apricot, coral and cobalt with a small leafy-green approval accent. Wide landscape composition. No title, no logos, no watermark, no tiny nodes, no networks or brains, no generic handshake/bridge ribbons, no glass UI panels, no glowing dark laboratory, no realistic user data. Communicate desktop-window evidence indexed into a checked diary, rather than generic software development.
+Use case: stylized-concept. Asset type: wide GitHub banner for AirJelly-CLI, an independently written local HTTP/RPC CLI and MCP client. Visual thesis: a compact translucent jelly-shaped local command relay in a single desktop terminal frame, accepting one >_ command ticket and producing a neat fan of typed command cards. Three large mechanical interlocks on the relay represent separate write, cost and execution permissions; a small closed loop stays inside the same device to represent authenticated loopback. One dominant relay device, at most two supporting motifs (terminal ticket and output command-card fan). NOT a diary or daily calendar scene. Bright studio white backdrop; seafoam, orchid-purple, lemon and ink-black palette, polished flat screenprint with soft geometric tactile forms, distinct from ivory/coral desktop diary paper art. Landscape with bold silhouettes, readable at 600 pixels. No real vendor logo, no actual credentials, no private screen or filenames, no title or fine text beyond >_. Avoid generic brains, networks, handshakes, ribbon bridges, dark cyan/amber glow, microscopic nodes, clutter and unrelated desk objects. The picture should suggest a local terminal adapter with controlled capabilities, not a recorder or generic AI mascot.
 
 ## Inspection
 
-Inspected at original size and at 600 px width. The desktop window, sequence of daily cards, large review check and terminal mark remain distinguishable without the README title. Decorative weekday glyphs are illustrative, not factual date labels.
-
-Generic alternatives such as a brain, glowing node network, handshake or abstract ribbon bridge were excluded in favor of the repository-specific desktop-to-reviewed-diary transformation. The light paper composition differs from a generic terminal dashboard.
+The original and 600 px preview preserve the input terminal, local authentication loop, three large capability controls and output tickets. The seafoam/orchid/lemon material palette and command-relay subject distinguish it from the ivory/coral reviewed-diary artwork. Generic brain/network/ribbon bridge designs were excluded.
