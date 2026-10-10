@@ -1,0 +1,6 @@
+interface:
+  display_name: "Daily Desktop Memory"
+  short_description: "Recall reviewed desktop history when prior activity matters"
+  default_prompt: "Use $desktop-daily-memory to recall my previous desktop work with sources and coverage limits."
+policy:
+  allow_implicit_invocation: true

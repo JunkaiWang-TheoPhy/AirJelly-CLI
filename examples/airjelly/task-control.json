@@ -1,0 +1,11 @@
+{
+  "allow_write": true,
+  "allow_cost": false,
+  "allow_execute": false,
+  "groups": ["tasks", "schedules", "reminders"],
+  "deny_methods": ["archiveTask", "archiveScheduledTask"],
+  "max_items": 100,
+  "max_text_chars": 2000,
+  "max_span_days": 7,
+  "redact": true
+}

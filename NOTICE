@@ -1,0 +1,14 @@
+Desktop Memory Bridge
+Copyright 2026 JunkaiWang-TheoPhy
+
+This repository contains independently written local interoperability clients,
+transports, policies, tests and reviewed-note retrieval code. Interface names
+and parameter structures are used for compatibility with third-party APIs.
+
+AirJelly and Screenpipe are third-party applications governed by their own
+licenses. Their implementation code, binaries, recordings and credentials
+are not distributed here. This project is not an official vendor plugin.
+
+The copyright owner authorized this public snapshot under Apache License 2.0.
+The generated repository artwork illustrates the workflow; it is not evidence
+of compatibility or recorded user activity.

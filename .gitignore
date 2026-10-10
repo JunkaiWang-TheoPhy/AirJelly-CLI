@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.omx/
+/.local/
+.env
+runtime.json
+/apps/console/.local/
+/vault/
